@@ -1,7 +1,7 @@
 # Run Together Open Data
 
 ## Open Data Endpoint
-https://api.runtogether.co.uk/odi/public/courses - a feed of courses from rundtogether.co.uk
+https://api.runtogether.co.uk/odi/public/courses - a feed of courses from runtogether.co.uk
 
 ## Standards
 - The data feed is published to conform to [OpenActive Realtime Paged Data Exchange 1.0](https://www.openactive.io/realtime-paged-data-exchange/) and [OpenActive Modelling Opportunity Data 2.0](https://www.openactive.io/modelling-opportunity-data/), using features from the [OpenActive Beta Namespace](https://www.openactive.io/ns-beta/).
